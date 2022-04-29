@@ -7,7 +7,7 @@ For this study, two sets of 5 sets with marks B and C were used, each containing
 
 ![confplot](https://user-images.githubusercontent.com/96732467/166003503-dc8ad995-042f-41c5-9aca-a1dd77d0a5ba.png)
 
-for more information of dataset please refer http://dx.doi.org/10.1103/PhysRevE.64.061907
+for more information about dataset please refer http://dx.doi.org/10.1103/PhysRevE.64.061907
 
 Data available at https://www.upf.edu/web/ntsa/downloads
 
