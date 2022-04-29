@@ -3,4 +3,5 @@ Phase space reconstruction for improving the classification of singletrial EEG u
 Just simply Run main.m
 
 Dataset is available at https://www.bbci.de/competition/iii/
+
 Department for Medical Informatics, University of Technology Graz. <alois.schloegl@tugraz.at>
