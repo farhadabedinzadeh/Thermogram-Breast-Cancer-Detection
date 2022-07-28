@@ -1,4 +1,4 @@
-# Thermogram-Breast-Cancer-Detection
+# Thermograms Classification To Breast Cancer Detection Using Statistical And Fractal Texture Features Extraction
 
 It is a step-by-step project on Thermograms Classification to Breast Cancer Detection Using Statistical and Fractal Texture Features Extraction
 
